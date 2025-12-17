@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.92,
+    "precision": 0.9,
+    "recall": 0.88,
+    "auc": 0.94,
+    "inference_time_ms": 120
+}
